@@ -1,0 +1,17 @@
+{
+  "short_name": "OpenBook AI",
+  "name": "OpenBook AI - Open Source AI Book Builder",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#061712",
+  "theme_color": "#469666",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Create professional books, manuals, and Forest Beat Handbooks client-side with pluggable AI and RAG knowledge base."
+}
